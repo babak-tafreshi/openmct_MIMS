@@ -74,7 +74,7 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-## ⚙Repository Structure
+## Repository Structure
 
 ```bash
 /
@@ -123,7 +123,6 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 ##  Contributors
 
 - **Babak Tafreshi**  
-  [GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/in/...)  
   Email: `babaknasirtafreshi@gmail.com`
 
 ---
