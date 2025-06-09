@@ -1,4 +1,4 @@
-# 🛰️ Satellite Mission Control Project – MIMS Lab Version
+#  Satellite Mission Control Project – MIMS Lab Version
 
 This repository hosts the full codebase for a **hybrid satellite mission control system** developed at the **Mixed-Reality Immersive Motion Simulation (MIMS) Lab**.
 
@@ -6,7 +6,7 @@ We integrate **Open MCT** (NASA’s mission control software) with a custom **Im
 
 ---
 
-## 🌐 Project Objectives
+##  Project Objectives
 
 - Visualize satellite orbit and telemetry in **real time**
 - Simulate **delta-V (Δv)** maneuvers and debris avoidance
@@ -16,7 +16,7 @@ We integrate **Open MCT** (NASA’s mission control software) with a custom **Im
 
 ---
 
-## 🧩 Open MCT Plugins
+##  Open MCT Plugins
 
 Custom plugins we developed include:
 
@@ -35,7 +35,7 @@ Open MCT is responsible for:
 
 ---
 
-## 🛰️ Orbit Simulator
+##  Orbit Simulator
 
 To support testable mission control features, we created a lightweight **Python-based orbit simulator** that:
 
@@ -46,7 +46,7 @@ To support testable mission control features, we created a lightweight **Python-
 
 ---
 
-## 🖥️ Immersive C2 (Unreal Engine)
+## Immersive C2 (Unreal Engine)
 
 Immersive C2 (short for Command & Control) visualizes:
 
@@ -59,7 +59,7 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-## 🔗 Hybrid Architecture
+##  Hybrid Architecture
 
 ```
 [ Open MCT ]
@@ -74,7 +74,7 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-## ⚙️ Repository Structure
+## ⚙Repository Structure
 
 ```bash
 /
@@ -92,38 +92,35 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-## 🧪 Demo Snapshots
+##  Demo Snapshots
 
-> Add these manually:
-- 📈 Screenshot of Open MCT plotting angle over time
-- 🌍 Unreal Engine Earth view with orbit + debris
-- 🖥️ Side-by-side operator screen (2D + 3D)
+
 
 ---
 
-## 🚀 Key Achievements
+##  Key Achievements
 
 | Module            | Status        | Notes                                        |
 |------------------|---------------|----------------------------------------------|
-| Open MCT Plugins | ✅ Complete    | Fully integrated with JSON telemetry         |
-| Orbit Simulator  | ✅ Complete    | Supports maneuver simulation + logging       |
-| Command Terminal | ✅ Custom Dev | Built from scratch to issue live burn cmds   |
-| Immersive C2     | ✅ Functional  | Real-time Earth + orbit animation            |
-| Integration      | 🔄 In Progress| WebSocket backend planned for smoother sync  |
+| Open MCT Plugins |  Complete    | Fully integrated with JSON telemetry         |
+| Orbit Simulator  |  Complete    | Supports maneuver simulation + logging       |
+| Command Terminal |  Custom Dev | Built from scratch to issue live burn cmds   |
+| Immersive C2     |  Functional  | Real-time Earth + orbit animation            |
+| Integration      |  In Progress| WebSocket backend planned for smoother sync  |
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
-- 🔍 Use NASA SPICE toolkit for higher accuracy ephemerides
-- ⚠️ Implement debris proximity alerts in both UIs
-- 🧠 Add AI-based collision prediction
-- ☁️ Cloud-deploy for multi-user ops & training
-- 🥽 Add VR headset support in Immersive C2
+-  Use NASA SPICE toolkit for higher accuracy ephemerides
+-  Implement debris proximity alerts in both UIs
+-  Add AI-based collision prediction
+-  Cloud-deploy for multi-user ops & training
+-  Add VR headset support in Immersive C2
 
 ---
 
-## 👨‍💻 Contributors
+##  Contributors
 
 - **Babak Tafreshi**  
   [GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/in/...)  
@@ -131,7 +128,7 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-## 📎 References
+##  References
 
 - [Open MCT – NASA GitHub](https://github.com/nasa/openmct)
 - [SPICE Toolkit – NASA NAIF](https://naif.jpl.nasa.gov/naif/)
@@ -139,4 +136,4 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ---
 
-Feel free to fork, explore, and contribute!
+Thanks!!!
