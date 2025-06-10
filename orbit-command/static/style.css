@@ -1,0 +1,11 @@
+body {
+  background-color: #000;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+}
+canvas {
+  display: block;
+  margin-top: 1rem;
+  border: 1px solid #333;
+  background-color: #000;
+}
