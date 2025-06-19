@@ -1,3 +1,5 @@
+BASH COMMANDS TO RUN THIS
+
 1
 python orbit_simulator.py
 
@@ -8,7 +10,7 @@ python app.py
 http://localhost:5000
 
 --------------------------------------------------------------------
-ORBIT COMMAND PROJECT DOCUMENTATION
+ORBIT COMMAND DOCUMENTATION
 --------------------------------------------------------------------
 
 1. Project Overview
