@@ -25,7 +25,7 @@ Custom plugins we developed include:
 | `TLEPlugin.js`     | Parses TLE data (from file or API) and creates telemetry    |
 | `AngleFeedPlugin.js` | Reads real-time satellite angular position from JSON       |
 | `OrbitVisualizer`  | Visualizes orbit path relative to Earth in 2D               |
-| `CommandWindow`    | Issues commands (burns) and logs responses (custom-built)   |
+
 
 Open MCT is responsible for:
 
