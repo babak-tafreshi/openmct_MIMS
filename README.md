@@ -122,8 +122,11 @@ It polls telemetry (JSON) at runtime and updates the visualization accordingly.
 
 ##  Contributors
 
-- **Babak Tafreshi**  
-  Email: `babaknasirtafreshi@gmail.com`
+  - **Mohsen Rostami, P. Eng, PhD**  
+  Email: `msn.rostami@torontomu.ca`
+
+- **Babak Tafreshi, B.Eng**  
+  Email: `babak.tafreshi@torontomu.ca`
 
 ---
 
